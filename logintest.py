@@ -6,7 +6,7 @@ from lxml import html
 
 marks = []
 payload = {
-    "ctl00$ContentPlaceHolder1$Username$input": "10656",
+    "ctl00$ContentPlaceHolder1$Username$input": "--",
     "ctl00$ContentPlaceHolder1$Password$input": "--",
 }
 
